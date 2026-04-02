@@ -1,4 +1,4 @@
-# Secure Code Analyzer
+# CWE Scanner
 
 A Python-based static code analysis tool for identifying security vulnerabilities in a C program.
 
